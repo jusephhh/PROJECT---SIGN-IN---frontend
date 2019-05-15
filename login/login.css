@@ -121,25 +121,33 @@ body{
 
 @media screen and (max-width: 766px){
 	
+	#sign_in {
+		font-size: 80px;
+		margin-top: -2px;
+	}
+	
 	.title {
-		text-align: center;
-		margin-right: -20px;
+		margin-right: -8px;
+		margin-top: 150px;
 	}
    
 	.n-logo {
-		text-align: center;
-		margin-right: -20px;
+		margin-right: -8px;
 	}
    
 	.form-group {
-		text-align: center;
-		margin-left: 136px; 
+		margin-left: 127px;
+	}
+
+
+	.remember_pass {
+		font-size: 13px;
+		margin: 4px;
 	}
    
 	.footer {
-		font-size: 13px;
+		font-size: 12px;
 		margin: 0px;
-		padding: 10px;
 	}
 
 }
@@ -147,26 +155,35 @@ body{
 
 @media screen and (max-width: 670px){
 
+	#sign_in {
+		font-size: 80px;
+		margin-top: -2px;
+	}
+	
 	.title {
-		text-align: center;
-		margin-right: -20px;
+		margin-right: -8px;
+		margin-top: 150px;
 	}
    
 	.n-logo {
-		text-align: center;
-		margin-right: -20px;
+		margin-right: -8px;
 	}
    
 	.form-group {
-		text-align: center;
-		margin-left: 136px; 
+		margin-left: 127px;
+	}
+
+
+	.remember_pass {
+		font-size: 13px;
+		margin: 4px;
 	}
    
 	.footer {
-		font-size: 13px;
+		font-size: 12px;
 		margin: 0px;
-		padding: 10px;
 	}
+
 
 
 }
@@ -175,52 +192,67 @@ body{
 @media screen and (max-width: 500px){
 
 
- .title {
-	 text-align: center;
-	 margin-right: 50px;
- }
+	#sign_in {
+		font-size: 80px;
+		margin-top: -2px;
+	}
+	
+	.title {
+		margin-right: -8px;
+		margin-top: 150px;
+	}
+   
+	.n-logo {
+		margin-right: -8px;
+	}
+   
+	.form-group {
+		margin-left: 127px;
+	}
 
- .n-logo {
-	 text-align: center;
-	 margin-right: 50px;
- }
 
- .form-group {
-	 text-align: center;
-	 margin-left: 93px; 
- }
-
- .footer {
-	 font-size: 11px;
-	 margin: 0px;
-	 padding: 10px;
- }
-
+	.remember_pass {
+		font-size: 13px;
+		margin: 4px;
+	}
+   
+	.footer {
+		font-size: 12px;
+		margin: 0px;
+	}
 
 
 
 }
 
 @media screen and (max-width: 365px){
+	
+	#sign_in {
+		font-size: 50px;
+	}
+	
 	.title {
-		text-align: center;
-		margin-right: 50px;
+		margin-right: -8px;
+		margin-top: 170px;
 	}
    
 	.n-logo {
-		text-align: center;
-		margin-right: 50px;
+		margin-right: -8px;
 	}
    
 	.form-group {
-		text-align: center;
-		margin-left: 70px; 
+		margin-right: -8px;
+	}
+
+
+	.remember_pass {
+		font-size: 11px;
+		margin: 4px;
 	}
    
 	.footer {
 		font-size: 9px;
 		margin: 0px;
-		padding: 10px;
 	}
    
 
