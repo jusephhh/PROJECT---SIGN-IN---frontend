@@ -119,6 +119,32 @@ body{
 
 
 
+@media screen and (max-width: 766px){
+	
+	.title {
+		text-align: center;
+		margin-right: -20px;
+	}
+   
+	.n-logo {
+		text-align: center;
+		margin-right: -20px;
+	}
+   
+	.form-group {
+		text-align: center;
+		margin-left: 136px; 
+	}
+   
+	.footer {
+		font-size: 13px;
+		margin: 0px;
+		padding: 10px;
+	}
+
+}
+
+
 @media screen and (max-width: 670px){
 
 	.title {
@@ -173,9 +199,29 @@ body{
 
 
 
+}
 
-
-
-
+@media screen and (max-width: 365px){
+	.title {
+		text-align: center;
+		margin-right: 50px;
+	}
+   
+	.n-logo {
+		text-align: center;
+		margin-right: 50px;
+	}
+   
+	.form-group {
+		text-align: center;
+		margin-left: 70px; 
+	}
+   
+	.footer {
+		font-size: 9px;
+		margin: 0px;
+		padding: 10px;
+	}
+   
 
 }
